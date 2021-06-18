@@ -1,0 +1,14 @@
+Personal Information
+Name: Wilson Gestiada
+Course: Bachelor of Science in Information Technology (BSIT 2-E)
+Permanent Address: Brgy. Padre Diaz, Bulan, Sorson
+Date of Birth: August 27, 2000
+Age: 20 years old
+Sex: Male
+Email: gestiadawilson@gmail.com
+Nationality: Filipino
+Religion: Christian Catholic
+Mobile Number: 09638445486
+Mother's Name: Wilma G. Gestiada
+
+
